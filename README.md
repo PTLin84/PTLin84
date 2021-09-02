@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PTLin84
-- 👀 I’m interested in software/web development.
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning javascript web development and python.
 
 <!---
