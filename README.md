@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PTLin84
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning javascript web development and python.
+- 👋 Hi, I’m Kyle Lin.
+- 👀 I’m interested in software development, and I'm seeking 2022 software engineer summer internship in the US.
+- 🌱 Currently learning Python applications and JavaScript web development.
 
 <!---
 PTLin84/PTLin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
