@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle Lin.
+- 👋 Hi, I’m Po-Ting Lin.
 - 👀 I’m interested in software development, and I'm seeking 2022 software engineer summer internship in the US.
 - 🌱 Currently learning Python applications and JavaScript web development.
 
