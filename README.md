@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Po-Ting Lin.
-- 👀 I’m interested in software development, and I'm seeking 2022 software engineer summer internship in the US.
+- 👀 I’m interested in software development.
 - 🌱 Currently learning JavaScript web development and mobile development through React Native.
 
 <!---
