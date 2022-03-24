@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Po-Ting Lin.
 - 👀 I’m interested in software development.
-- 🌱 Currently learning JavaScript web development and mobile development through React Native.
+- 🌱 Currently learning Computer Systems and Machine Learning.
 
 <!---
 PTLin84/PTLin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
