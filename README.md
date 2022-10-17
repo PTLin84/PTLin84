@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Po-Ting Lin.
 - 👀 I’m interested in software development.
-- 🌱 Currently learning Computer Systems and Machine Learning.
+- 🌱 Currently learning deep learning and blockchain technologies.
 
 <!---
 PTLin84/PTLin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
