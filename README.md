@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Kyle PT Lin.
-- 👀 I’m interested in software development.
+- 👋 Hi, I’m Kyle Lin.
+- 👀 I’m a Stanford graduate in Materials Science.
+- 💼 Currently work as Battery Data Analyst in Menlo Park, CA.
 - 🌱 Love learning software technologies.
 
 <!---
