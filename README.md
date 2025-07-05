@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kyle Lin.
-- 👀 I’m a Stanford graduate in Materials Science.
-- 💼 Currently work as Battery Data Analyst in Menlo Park, CA.
+- 💼 Currently work as Battery Machine Learning Engineer in Menlo Park, CA.
 - 🌱 Love learning software technologies.
 - 🔗 My personal website: [kyleptlin.com](https://kyleptlin.com/)
 
