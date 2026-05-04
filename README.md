@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle Lin.
-- 💼 Currently work as Battery Machine Learning Engineer in Menlo Park, CA.
-- 🌱 Love learning software technologies.
+- 💼 Currently work as MLOps Engineer at TikTok at San Jose, CA.
+- 🌱 Love learning & building software technologies.
 - 🔗 My personal website: [kyleptlin.com](https://kyleptlin.com/)
 
 <!---
