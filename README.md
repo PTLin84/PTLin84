@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle Lin.
-- 💼 Currently work as MLOps Engineer at TikTok at San Jose, CA.
-- 🌱 Love learning & building software technologies.
+- 💼 Work as an MLOps Engineer at TikTok in San Jose, CA.
+- 🌱 Love learning & building software.
 - 🔗 My personal website: <a href="https://kyleptlin.com/" target="_blank">kyleptlin.com</a>
 
 <!---
